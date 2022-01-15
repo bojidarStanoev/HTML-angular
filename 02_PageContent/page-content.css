@@ -1,0 +1,17 @@
+#mysection article header h1{
+  font-size: 28px;  
+}
+#mysection article header p{
+    font-style: italic;
+}
+#mysection article p {
+    font-size: 24px;
+}
+#mysection {
+    margin-left: 20px;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+    background: #cccccc;
+}
