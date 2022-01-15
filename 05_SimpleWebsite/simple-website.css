@@ -1,0 +1,44 @@
+body{
+
+    margin: 0px;
+    padding: 0px;
+    background: #cccccc;
+}
+
+#menu  ul{
+background: #444;
+text-align: center;
+padding: 0px;
+margin: 0px;
+list-style: none;
+}
+#menu  ul li{
+    font-size: 24px;
+    line-height: 40px;
+height: 40px;
+padding: 20px;
+display: inline-block;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+
+}
+#mysection article header h1{
+    font-size: 28px;  
+  }
+  #mysection article header p{
+      font-style: italic;
+  }
+  #mysection article p {
+      font-size: 24px;
+  }
+  #mysection {
+      margin-left: 20px;
+  }
+  footer{
+      text-align: center;
+      background-color: #444;
+      color: #fff;
+      padding: 10px;
+  }
