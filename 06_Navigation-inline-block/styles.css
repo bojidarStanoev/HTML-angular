@@ -1,0 +1,13 @@
+html{
+    font-family: Helvetica, sans-serif;
+}
+ul li{
+    display: inline-block;
+    color: green;
+    text-align: center;
+}
+nav{
+    text-align: center;
+    display: inline-block;
+    border-bottom: solid black;
+}
