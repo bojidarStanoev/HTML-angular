@@ -1,0 +1,36 @@
+@import 'https://use.fontawesome.com/releases/v5.10.2/css/all.css';
+
+    
+
+#top .card{
+    
+    display: block;
+    position: absolute;
+    top: 60px;
+    left: 300px;
+}
+#bottom .card
+{
+    
+    display: block;
+    position: absolute;
+    top: 380px;
+    left: 350px;
+    bottom: -120px;
+
+} 
+
+#bottom .card img{
+    width: 250px;
+    height: 400px;
+}
+#top .card img{
+    width: 400px;
+    height: 233px;
+}
+#top {
+background-color: cyan;
+}
+#bottom{
+    background-color: crimson;
+}

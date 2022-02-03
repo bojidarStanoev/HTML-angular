@@ -1,0 +1,49 @@
+#nav{
+    border-bottom: 4px solid black;
+}
+#nav p{
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+nav ul{
+    text-align: right;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+#nav ul li{
+    display: inline-block;
+    color:rgb(0, 102, 0);
+}
+#first{
+   float: right;
+    background-color: rgb(255, 255, 255);
+    border: 10px  double rgba(0, 0, 0, 0.25);
+    box-shadow: 1px rgba(0, 0, 0, 0.25);
+
+}
+blockquote{
+    display: inline;
+    font-family: Georgia, serif;
+    
+    border-left: 1px solid black;
+    padding-left: 50px;
+}
+#second{
+    background-color: rgb(255, 255, 255);
+    border: 10px  double rgba(0, 0, 0, 0.25);
+    box-shadow: 1px rgba(0, 0, 0, 0.25);
+
+    float: left;
+}
+h3{
+    text-align: right;
+}
+aside{
+    float:right;
+    margin-right: 20px;
+    
+}
+aside ul li{
+    color:rgb(0, 102, 0);
+}
